@@ -5,6 +5,10 @@
 This application allows users to manage student records in a PostgreSQL database through a simple command-line interface. 
 It supports Create, Read, Update, and Delete (CRUD) operations on student records.
 
+YOUTUBE LINK:
+https://youtu.be/U3ZWTaEAWrY
+
+
 ## Prerequisites
 
 - Python 3.x
